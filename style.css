@@ -11,13 +11,12 @@
     padding-right: calc(50% - 600px);
 }
 .top{
-    width: 1440px;
     height: 1024px;
     background: linear-gradient(180deg, rgba(0, 0, 0, 0) -7.35%, #000915 100%), url(0001.jpg);
     background-image: url(img/hw1.jpg);
 }
 .header{
-    padding-left: 120px;
+   /* padding-left: 120px;*/
     padding-top: 217px;
 }
 
@@ -56,18 +55,15 @@
 }
 
 .for-box{
-    width: 1440px;
     height: 556px;
-    left: 0px;
-    top: 1024px;
     background: #000915;
 }
 
 .for-box{
     display: flex;
     gap: 32px;
-    padding-left: 120px;
-    padding-top: 128px;
+   /* padding-left: 120px;
+    padding-top: 128px;*/
 }
 .for__item{
     width: 379px;
